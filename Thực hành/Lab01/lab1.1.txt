@@ -1,0 +1,25 @@
+#khác biệt giữa xml và josn
+
+xml là đại diện cho dữ liêu liệu hình cây
+json đại diện cho các cặp khóa giá trị
+
+#hình thức
+JSON sử dụng cặp khóa-giá trị để tạo ra một cấu trúc hình bản đồ
+khóa là chuỗi sẽ xác định cặp giá trị là thông tin ta cung cấp cho nó
+
+xml là ngôn ngữ đánhh dấu(tập con của SGML) một cấu trúc tươpng tự hư html
+
+#cú pháp
+cú pháp dùng cho json đơn giản, dễ viết đễđễ đọc
+xml chi tiét hơn và dùng một số kí tự thay cho tham chiếu thực tế
+
+#Phân tích cú pháp
+phân tích cú pháp xml phải dùng bộ phận phân tích cú pháp xml, thường chậm
+phân tích json có thể bằng hàm python đơn giản và dễ tiếp cận
+
+#hỗ trợ kiểu dữ liệu
+JSON hỗ trợ các số, đối tượng, chuỗi và mảng Booleann
+XML hỗ trợ tất cả các kiểu dữ liệu JSON và các kiểu bổ sung như Boolean, ngày tháng, hình ảnh và không gian tên
+
+#bảo mật
+JSON an toàn hơn XMLXML
